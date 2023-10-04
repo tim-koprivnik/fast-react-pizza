@@ -13,8 +13,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/tim-koprivnik/portfolio.git`
-2. Navigate into the cloned repository directory: `cd portfolio`
+1. Clone the repository: `git clone git@github.com:tim-koprivnik/fast-react-pizza.git`
+2. Navigate into the cloned repository directory: `cd [name-of-the-repo]`
 3. Install the dependencies: `npm install` or `yarn`
 4. Start the local development server: `npm run dev` or `yarn dev`
 5. Now, open your browser and navigate to http://localhost:XXXX. You should see the app running.
