@@ -1,6 +1,6 @@
 # Fast React Pizza
 
-This food ordering app was created using [React](https://reactjs.org/), and [Vite](https://vitejs.dev/).
+This food ordering app was created using [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Vite](https://vitejs.dev/), and [Vercel](https://vercel.com/).
 
 ## Getting Started
 
@@ -38,3 +38,7 @@ This project is open-source and available under the MIT License.
 ## Contact
 
 Tim Koprivnik - t.koprivnikl@gmail.com
+
+## Website
+
+https://fast-react-pizza-hnps9cb8s-thedude23.vercel.app/
