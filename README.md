@@ -28,7 +28,6 @@ This command will create a dist directory with a production build of your app.
 ## Technologies Used
 
 - React
-- Vite
 - Tailwind CSS
 
 ## License
