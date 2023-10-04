@@ -38,5 +38,3 @@ This project is open-source and available under the MIT License.
 ## Contact
 
 Tim Koprivnik - t.koprivnikl@gmail.com
-
-Project Link: 
